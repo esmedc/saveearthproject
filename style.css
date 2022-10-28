@@ -1,0 +1,18 @@
+.Home {
+background: url(Pollution.scaled.jpeg) no-repeat center;
+background-size:cover;
+height: 500px;
+position: relative;
+
+}
+
+.header{
+        
+        position: absolute;
+        top: 20px;
+        right: 22px;
+        font-size: 18px;
+        transform: translate(-40%, -40%);        
+        color: white;
+        
+      }
